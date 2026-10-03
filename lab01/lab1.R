@@ -58,3 +58,5 @@ table(mtcars$cyl)            # 次數分配表
 library(tidyverse)
 mtcars %>% ggplot(aes(x = cyl)) + geom_bar()  # 基本長條圖
 
+
+
